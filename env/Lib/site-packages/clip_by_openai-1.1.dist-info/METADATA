@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: clip-by-openai
+Version: 1.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: OpenAI
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: ftfy
+Requires-Dist: regex
+Requires-Dist: tqdm
+Requires-Dist: torch (<1.7.2,>=1.7.1)
+Requires-Dist: torchvision (==0.8.2)
+Provides-Extra: dev
+Requires-Dist: pytest ; extra == 'dev'
+
+UNKNOWN
+

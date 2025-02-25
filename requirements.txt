@@ -1,0 +1,10 @@
+flask
+torch
+torchvision
+
+faiss-cpu
+pillow
+flask-cors
+ftfy
+regex
+tqdm
